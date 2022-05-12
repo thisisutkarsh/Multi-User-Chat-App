@@ -1,5 +1,6 @@
 # Multiuser Chat Application
 
+Computer networks project
 Used socket.io
 
 ### To run
